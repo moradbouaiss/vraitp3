@@ -1,6 +1,6 @@
 *.class
 *.library
 *.log
-
+*.vscode
      
 *.jar
